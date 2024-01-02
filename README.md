@@ -19,7 +19,7 @@ Version 1.1 is currently being developed and released
 * Develop table of resistor values that work well, paired with LED colors.
 
 ## Instructions & Further Documentation
-[See the wiki on GitHub!]((https://github.com/rit-construct-makerspace/wiki)) 
+[See the wiki on GitHub!](https://github.com/rit-construct-makerspace/wiki) 
 
 ## Photos & Media
 Coming soon!
