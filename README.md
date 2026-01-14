@@ -5,6 +5,10 @@ This simple kit is the perfect introduction to soldering, with multiple easy-to-
 
 When assembled, the kit acts as a simple nightlight. with Ritchie's nose glowing in the dark! 
 
+See /docs folder for assembly guide, printable parts list, etc.
+
+See /source for PCB files, Gerber, BOM, etc.
+
 ## Current Release
 Version 1.2, September 2025
 
@@ -13,9 +17,6 @@ Version 1.2.1 developed, but 1.2 is fine to use.
 
 ## TODO
 * V1.2.1 - Flip USB port to "top" of the board
-
-## Instructions & Further Documentation
-See /docs folder
 
 ## Photos & Media
 Coming soon!
