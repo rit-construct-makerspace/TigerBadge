@@ -5,24 +5,20 @@ This simple kit is the perfect introduction to soldering, with multiple easy-to-
 
 When assembled, the kit acts as a simple nightlight. with Ritchie's nose glowing in the dark! 
 
-### More information can be found on the [GitHub Wiki](https://github.com/rit-construct-makerspace/wiki).
-
 ## Current Release
-There are no stable versions for release. The latest WIP is Version 1.1
+Version 1.2, September 2025
 
 ## Current State
-Version 1.1 is currently being developed and released
+Version 1.2.1 developed, but 1.2 is fine to use. 
 
 ## TODO
-* Need to test/verify the functionality of the circuit
-* Write all content for the badges
-* Develop table of resistor values that work well, paired with LED colors.
+* V1.2.1 - Flip USB port to "top" of the board
 
 ## Instructions & Further Documentation
-[See the wiki on GitHub!](https://github.com/rit-construct-makerspace/wiki) 
+See /docs folder
 
 ## Photos & Media
 Coming soon!
 
 ## License
-This project is licensed under the Creative Commons 4.0 Attribution-NonCommercial-ShareAlike. For more information, click [here](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+This project is licensed under the CERN-OHL-S License. 
